@@ -1,1 +1,1 @@
-# 01-tailwind-intro
+# 01-tailwind-intro including js config.
